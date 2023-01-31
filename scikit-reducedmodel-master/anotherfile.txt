@@ -1,0 +1,2 @@
+some text
+some new text for another commit
